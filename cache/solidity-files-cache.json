@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/workspaces/codespaces-blank/build-lending-dapp-on-core/contracts/CoreLoanPlatform.sol": {
+      "lastModificationDate": 1726823319751,
+      "contentHash": "ebb7a87b35f16e15ffefaae882feca46",
+      "sourceName": "contracts/CoreLoanPlatform.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "CoreLoanPlatform"
+      ]
+    },
+    "/workspaces/codespaces-blank/build-lending-dapp-on-core/contracts/HelloWorld.sol": {
+      "lastModificationDate": 1726597416344,
+      "contentHash": "a7a1d1aa65d4eedbda05e30fffbd0b62",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
